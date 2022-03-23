@@ -1,0 +1,14 @@
+# pycharm - .idea
+/.idea/
+.idea/misc.xml
+
+# Python
+__pycache__/
+
+# Python build
+build/
+dist/
+
+# Images captured
+images/captured
+*.py[cod]
